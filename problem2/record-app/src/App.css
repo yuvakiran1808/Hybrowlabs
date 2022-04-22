@@ -1,0 +1,30 @@
+
+.recordadder-btn{
+padding: 15px;  
+margin: 40px;
+margin-left:11em;
+cursor: pointer;
+}
+.wrapper{
+  border: 2px solid black;
+  width: 60em;
+  margin: 0 auto;
+}
+body{
+  margin: 10px;
+}
+.each-row{
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.header{
+  border-bottom: 2px solid black ;
+  padding: 10px;
+}
+.delete-btn{
+  height: 3em;
+  cursor: pointer;
+}
